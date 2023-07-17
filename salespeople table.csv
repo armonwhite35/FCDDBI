@@ -1,0 +1,11 @@
+SID,first_name,last_name,commisison,reports_to
+1488,Jim,Friendly,0.20,NULL
+1491,Mia,Scott,0.15,1488
+1492,Martin,Douglas,0.08,1488
+1493,Savannah,Michaels,0.08,1488
+1494,Carlos,Williams,0.08,1488
+1495,Clark,Smith,0.08,1488
+1496,Megan,Pete,0.08,1488
+1497,Angel,Stewart,0.08,1488
+1498,Victor,Johnson,0.08,1488
+1499,Mike,Hunt,0.08,1488
